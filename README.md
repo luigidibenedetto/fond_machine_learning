@@ -2,6 +2,7 @@ Segmentazione della clientela per una campagna di marketing di un'azienda di ser
 ________________________________________
 L'azienda di servizi finanziari per cui lavori sta investendo in una nuova campagna di marketing per per promuovere la propria linea di carte di credito.
 Hai a disposizione un dataset contiene le seguenti informazioni su 9000 possessori di carte di credito dell'azienda:
+
 •	CUST_ID : Identificazione del titolare della carta di credito (Categorico)
 •	BALANCE : importo del saldo rimasto sul conto per effettuare acquisti
 •	BALANCE_FREQUENCY : frequenza di aggiornamento del saldo, punteggio tra 0 e 1 (1 = aggiornato frequentemente, 0 = non aggiornato frequentemente).
